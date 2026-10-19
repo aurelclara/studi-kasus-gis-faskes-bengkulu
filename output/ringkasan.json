@@ -1,0 +1,25 @@
+{
+  "ringkasan": {
+    "total_penduduk": 43023,
+    "penduduk_terlayani": 20119,
+    "persen_terlayani": 46.76,
+    "permukiman_tidak_terlayani": 79
+  },
+  "rekomendasi": [
+    {
+      "lat": -3.750829,
+      "lon": 102.285104,
+      "penduduk_baru_terjangkau": 8881
+    },
+    {
+      "lat": -3.753635,
+      "lon": 102.251916,
+      "penduduk_baru_terjangkau": 4553
+    },
+    {
+      "lat": -3.841539,
+      "lon": 102.198382,
+      "penduduk_baru_terjangkau": 2802
+    }
+  ]
+}

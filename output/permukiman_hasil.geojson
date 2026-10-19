@@ -1,0 +1,2555 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.291607,
+     -3.739099
+    ]
+   },
+   "properties": {
+    "id": "P001",
+    "penduduk": "90",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.422,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.28872,
+     -3.762827
+    ]
+   },
+   "properties": {
+    "id": "P002",
+    "penduduk": "491",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.94,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.231638,
+     -3.761704
+    ]
+   },
+   "properties": {
+    "id": "P003",
+    "penduduk": "73",
+    "faskes_terdekat": "F04",
+    "jarak_km": 1.44,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.297391,
+     -3.761772
+    ]
+   },
+   "properties": {
+    "id": "P004",
+    "penduduk": "90",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.723,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.209927,
+     -3.811327
+    ]
+   },
+   "properties": {
+    "id": "P005",
+    "penduduk": "282",
+    "faskes_terdekat": "F05",
+    "jarak_km": 0.518,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.281393,
+     -3.759539
+    ]
+   },
+   "properties": {
+    "id": "P006",
+    "penduduk": "231",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.915,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.202289,
+     -3.828145
+    ]
+   },
+   "properties": {
+    "id": "P007",
+    "penduduk": "399",
+    "faskes_terdekat": "F05",
+    "jarak_km": 2.554,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.294957,
+     -3.747794
+    ]
+   },
+   "properties": {
+    "id": "P008",
+    "penduduk": "323",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.71,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.300927,
+     -3.762709
+    ]
+   },
+   "properties": {
+    "id": "P009",
+    "penduduk": "188",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.993,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.279747,
+     -3.766346
+    ]
+   },
+   "properties": {
+    "id": "P010",
+    "penduduk": "216",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.136,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.286816,
+     -3.762899
+    ]
+   },
+   "properties": {
+    "id": "P011",
+    "penduduk": "211",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.808,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.219816,
+     -3.849789
+    ]
+   },
+   "properties": {
+    "id": "P012",
+    "penduduk": "340",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.15,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.303659,
+     -3.770069
+    ]
+   },
+   "properties": {
+    "id": "P013",
+    "penduduk": "252",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.967,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.289975,
+     -3.772246
+    ]
+   },
+   "properties": {
+    "id": "P014",
+    "penduduk": "176",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.44,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.284044,
+     -3.771826
+    ]
+   },
+   "properties": {
+    "id": "P015",
+    "penduduk": "349",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.868,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.20435,
+     -3.839166
+    ]
+   },
+   "properties": {
+    "id": "P016",
+    "penduduk": "162",
+    "faskes_terdekat": "F07",
+    "jarak_km": 2.975,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.218344,
+     -3.8244
+    ]
+   },
+   "properties": {
+    "id": "P017",
+    "penduduk": "74",
+    "faskes_terdekat": "F02",
+    "jarak_km": 1.565,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.289583,
+     -3.75924
+    ]
+   },
+   "properties": {
+    "id": "P018",
+    "penduduk": "398",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.317,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.204871,
+     -3.858594
+    ]
+   },
+   "properties": {
+    "id": "P019",
+    "penduduk": "355",
+    "faskes_terdekat": "F07",
+    "jarak_km": 3.044,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.205795,
+     -3.880282
+    ]
+   },
+   "properties": {
+    "id": "P020",
+    "penduduk": "490",
+    "faskes_terdekat": "F07",
+    "jarak_km": 4.534,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.278416,
+     -3.765812
+    ]
+   },
+   "properties": {
+    "id": "P021",
+    "penduduk": "324",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.175,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.229523,
+     -3.743859
+    ]
+   },
+   "properties": {
+    "id": "P022",
+    "penduduk": "200",
+    "faskes_terdekat": "F04",
+    "jarak_km": 2.233,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.212417,
+     -3.848343
+    ]
+   },
+   "properties": {
+    "id": "P023",
+    "penduduk": "419",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.941,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.301659,
+     -3.764333
+    ]
+   },
+   "properties": {
+    "id": "P024",
+    "penduduk": "141",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.978,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.259786,
+     -3.737602
+    ]
+   },
+   "properties": {
+    "id": "P025",
+    "penduduk": "202",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.744,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.287183,
+     -3.771127
+    ]
+   },
+   "properties": {
+    "id": "P026",
+    "penduduk": "241",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.205,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.213554,
+     -3.839375
+    ]
+   },
+   "properties": {
+    "id": "P027",
+    "penduduk": "321",
+    "faskes_terdekat": "F07",
+    "jarak_km": 2.017,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.275683,
+     -3.774599
+    ]
+   },
+   "properties": {
+    "id": "P028",
+    "penduduk": "107",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.294,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.224752,
+     -3.728746
+    ]
+   },
+   "properties": {
+    "id": "P029",
+    "penduduk": "207",
+    "faskes_terdekat": "F04",
+    "jarak_km": 3.625,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.22742,
+     -3.796167
+    ]
+   },
+   "properties": {
+    "id": "P030",
+    "penduduk": "90",
+    "faskes_terdekat": "F01",
+    "jarak_km": 2.001,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.261838,
+     -3.765806
+    ]
+   },
+   "properties": {
+    "id": "P031",
+    "penduduk": "439",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.112,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.266187,
+     -3.757676
+    ]
+   },
+   "properties": {
+    "id": "P032",
+    "penduduk": "293",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.436,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.285104,
+     -3.750829
+    ]
+   },
+   "properties": {
+    "id": "P033",
+    "penduduk": "360",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.956,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.205479,
+     -3.821965
+    ]
+   },
+   "properties": {
+    "id": "P034",
+    "penduduk": "436",
+    "faskes_terdekat": "F05",
+    "jarak_km": 1.781,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.269946,
+     -3.770139
+    ]
+   },
+   "properties": {
+    "id": "P035",
+    "penduduk": "254",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.101,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.27715,
+     -3.770726
+    ]
+   },
+   "properties": {
+    "id": "P036",
+    "penduduk": "314",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.628,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.217506,
+     -3.842667
+    ]
+   },
+   "properties": {
+    "id": "P037",
+    "penduduk": "223",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.469,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.279205,
+     -3.770678
+    ]
+   },
+   "properties": {
+    "id": "P038",
+    "penduduk": "162",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.654,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.291088,
+     -3.748013
+    ]
+   },
+   "properties": {
+    "id": "P039",
+    "penduduk": "167",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.485,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.270462,
+     -3.743598
+    ]
+   },
+   "properties": {
+    "id": "P040",
+    "penduduk": "86",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.729,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.29024,
+     -3.756957
+    ]
+   },
+   "properties": {
+    "id": "P041",
+    "penduduk": "159",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.568,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.293207,
+     -3.739366
+    ]
+   },
+   "properties": {
+    "id": "P042",
+    "penduduk": "342",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.459,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.27604,
+     -3.77902
+    ]
+   },
+   "properties": {
+    "id": "P043",
+    "penduduk": "463",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.347,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.216649,
+     -3.846889
+    ]
+   },
+   "properties": {
+    "id": "P044",
+    "penduduk": "270",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.469,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.24661,
+     -3.757074
+    ]
+   },
+   "properties": {
+    "id": "P045",
+    "penduduk": "423",
+    "faskes_terdekat": "F04",
+    "jarak_km": 3.125,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.253153,
+     -3.779304
+    ]
+   },
+   "properties": {
+    "id": "P046",
+    "penduduk": "100",
+    "faskes_terdekat": "F08",
+    "jarak_km": 1.409,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.290052,
+     -3.772245
+    ]
+   },
+   "properties": {
+    "id": "P047",
+    "penduduk": "491",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.448,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.291571,
+     -3.763236
+    ]
+   },
+   "properties": {
+    "id": "P048",
+    "penduduk": "279",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.123,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.223228,
+     -3.827722
+    ]
+   },
+   "properties": {
+    "id": "P049",
+    "penduduk": "177",
+    "faskes_terdekat": "F02",
+    "jarak_km": 1.164,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.29212,
+     -3.785649
+    ]
+   },
+   "properties": {
+    "id": "P050",
+    "penduduk": "331",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.908,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.298048,
+     -3.719927
+    ]
+   },
+   "properties": {
+    "id": "P051",
+    "penduduk": "478",
+    "faskes_terdekat": "F03",
+    "jarak_km": 6.669,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.278471,
+     -3.73641
+    ]
+   },
+   "properties": {
+    "id": "P052",
+    "penduduk": "484",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.442,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.230626,
+     -3.812225
+    ]
+   },
+   "properties": {
+    "id": "P053",
+    "penduduk": "159",
+    "faskes_terdekat": "F02",
+    "jarak_km": 1.158,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.207465,
+     -3.842983
+    ]
+   },
+   "properties": {
+    "id": "P054",
+    "penduduk": "51",
+    "faskes_terdekat": "F07",
+    "jarak_km": 2.534,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.232521,
+     -3.850874
+    ]
+   },
+   "properties": {
+    "id": "P055",
+    "penduduk": "282",
+    "faskes_terdekat": "F07",
+    "jarak_km": 0.489,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.254409,
+     -3.771815
+    ]
+   },
+   "properties": {
+    "id": "P056",
+    "penduduk": "451",
+    "faskes_terdekat": "F08",
+    "jarak_km": 1.845,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.26066,
+     -3.765588
+    ]
+   },
+   "properties": {
+    "id": "P057",
+    "penduduk": "147",
+    "faskes_terdekat": "F08",
+    "jarak_km": 2.201,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.244472,
+     -3.744295
+    ]
+   },
+   "properties": {
+    "id": "P058",
+    "penduduk": "426",
+    "faskes_terdekat": "F04",
+    "jarak_km": 3.397,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.276338,
+     -3.748645
+    ]
+   },
+   "properties": {
+    "id": "P059",
+    "penduduk": "75",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.085,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.276361,
+     -3.784945
+    ]
+   },
+   "properties": {
+    "id": "P060",
+    "penduduk": "321",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.966,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.223656,
+     -3.805784
+    ]
+   },
+   "properties": {
+    "id": "P061",
+    "penduduk": "485",
+    "faskes_terdekat": "F05",
+    "jarak_km": 1.206,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.220537,
+     -3.815079
+    ]
+   },
+   "properties": {
+    "id": "P062",
+    "penduduk": "491",
+    "faskes_terdekat": "F05",
+    "jarak_km": 1.165,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.234915,
+     -3.842701
+    ]
+   },
+   "properties": {
+    "id": "P063",
+    "penduduk": "341",
+    "faskes_terdekat": "F07",
+    "jarak_km": 0.76,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.217032,
+     -3.822176
+    ]
+   },
+   "properties": {
+    "id": "P064",
+    "penduduk": "91",
+    "faskes_terdekat": "F05",
+    "jarak_km": 1.66,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.198668,
+     -3.857384
+    ]
+   },
+   "properties": {
+    "id": "P065",
+    "penduduk": "211",
+    "faskes_terdekat": "F07",
+    "jarak_km": 3.639,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.258655,
+     -3.739736
+    ]
+   },
+   "properties": {
+    "id": "P066",
+    "penduduk": "172",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.586,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.251299,
+     -3.75934
+    ]
+   },
+   "properties": {
+    "id": "P067",
+    "penduduk": "203",
+    "faskes_terdekat": "F08",
+    "jarak_km": 3.208,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.229934,
+     -3.856963
+    ]
+   },
+   "properties": {
+    "id": "P068",
+    "penduduk": "87",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.069,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.294964,
+     -3.805002
+    ]
+   },
+   "properties": {
+    "id": "P069",
+    "penduduk": "101",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.719,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.280439,
+     -3.777154
+    ]
+   },
+   "properties": {
+    "id": "P070",
+    "penduduk": "117",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.32,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.223598,
+     -3.727055
+    ]
+   },
+   "properties": {
+    "id": "P071",
+    "penduduk": "239",
+    "faskes_terdekat": "F04",
+    "jarak_km": 3.79,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.25941,
+     -3.732684
+    ]
+   },
+   "properties": {
+    "id": "P072",
+    "penduduk": "410",
+    "faskes_terdekat": "F03",
+    "jarak_km": 5.262,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.217515,
+     -3.772201
+    ]
+   },
+   "properties": {
+    "id": "P073",
+    "penduduk": "384",
+    "faskes_terdekat": "F10",
+    "jarak_km": 0.838,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.273534,
+     -3.736208
+    ]
+   },
+   "properties": {
+    "id": "P074",
+    "penduduk": "203",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.487,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.302485,
+     -3.743557
+    ]
+   },
+   "properties": {
+    "id": "P075",
+    "penduduk": "185",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.569,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.271151,
+     -3.748095
+    ]
+   },
+   "properties": {
+    "id": "P076",
+    "penduduk": "129",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.224,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.248481,
+     -3.74677
+    ]
+   },
+   "properties": {
+    "id": "P077",
+    "penduduk": "225",
+    "faskes_terdekat": "F04",
+    "jarak_km": 3.654,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.196951,
+     -3.828162
+    ]
+   },
+   "properties": {
+    "id": "P078",
+    "penduduk": "308",
+    "faskes_terdekat": "F05",
+    "jarak_km": 2.878,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.237829,
+     -3.849055
+    ]
+   },
+   "properties": {
+    "id": "P079",
+    "penduduk": "76",
+    "faskes_terdekat": "F07",
+    "jarak_km": 0.902,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.266917,
+     -3.778301
+    ]
+   },
+   "properties": {
+    "id": "P080",
+    "penduduk": "72",
+    "faskes_terdekat": "F08",
+    "jarak_km": 0.793,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.289275,
+     -3.766487
+    ]
+   },
+   "properties": {
+    "id": "P081",
+    "penduduk": "184",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.692,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.20348,
+     -3.820007
+    ]
+   },
+   "properties": {
+    "id": "P082",
+    "penduduk": "268",
+    "faskes_terdekat": "F05",
+    "jarak_km": 1.718,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.272735,
+     -3.753563
+    ]
+   },
+   "properties": {
+    "id": "P083",
+    "penduduk": "403",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.593,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.212225,
+     -3.841007
+    ]
+   },
+   "properties": {
+    "id": "P084",
+    "penduduk": "348",
+    "faskes_terdekat": "F07",
+    "jarak_km": 2.082,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.277472,
+     -3.754557
+    ]
+   },
+   "properties": {
+    "id": "P085",
+    "penduduk": "207",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.424,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.227702,
+     -3.727902
+    ]
+   },
+   "properties": {
+    "id": "P086",
+    "penduduk": "490",
+    "faskes_terdekat": "F04",
+    "jarak_km": 3.79,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.278888,
+     -3.756667
+    ]
+   },
+   "properties": {
+    "id": "P087",
+    "penduduk": "177",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.193,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.300139,
+     -3.746466
+    ]
+   },
+   "properties": {
+    "id": "P088",
+    "penduduk": "497",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.154,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.208339,
+     -3.829173
+    ]
+   },
+   "properties": {
+    "id": "P089",
+    "penduduk": "171",
+    "faskes_terdekat": "F05",
+    "jarak_km": 2.431,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.215396,
+     -3.797518
+    ]
+   },
+   "properties": {
+    "id": "P090",
+    "penduduk": "261",
+    "faskes_terdekat": "F05",
+    "jarak_km": 1.175,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.308411,
+     -3.751589
+    ]
+   },
+   "properties": {
+    "id": "P091",
+    "penduduk": "450",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.384,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.188912,
+     -3.841143
+    ]
+   },
+   "properties": {
+    "id": "P092",
+    "penduduk": "465",
+    "faskes_terdekat": "F05",
+    "jarak_km": 4.568,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.239656,
+     -3.821396
+    ]
+   },
+   "properties": {
+    "id": "P093",
+    "penduduk": "105",
+    "faskes_terdekat": "F02",
+    "jarak_km": 0.823,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.194527,
+     -3.832389
+    ]
+   },
+   "properties": {
+    "id": "P094",
+    "penduduk": "163",
+    "faskes_terdekat": "F05",
+    "jarak_km": 3.415,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.206479,
+     -3.813755
+    ]
+   },
+   "properties": {
+    "id": "P095",
+    "penduduk": "206",
+    "faskes_terdekat": "F05",
+    "jarak_km": 0.979,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.23603,
+     -3.816185
+    ]
+   },
+   "properties": {
+    "id": "P096",
+    "penduduk": "254",
+    "faskes_terdekat": "F02",
+    "jarak_km": 0.814,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.24487,
+     -3.745948
+    ]
+   },
+   "properties": {
+    "id": "P097",
+    "penduduk": "445",
+    "faskes_terdekat": "F04",
+    "jarak_km": 3.34,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.251916,
+     -3.753635
+    ]
+   },
+   "properties": {
+    "id": "P098",
+    "penduduk": "397",
+    "faskes_terdekat": "F08",
+    "jarak_km": 3.758,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.274925,
+     -3.759686
+    ]
+   },
+   "properties": {
+    "id": "P099",
+    "penduduk": "499",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.878,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.268101,
+     -3.73179
+    ]
+   },
+   "properties": {
+    "id": "P100",
+    "penduduk": "185",
+    "faskes_terdekat": "F03",
+    "jarak_km": 5.068,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.291845,
+     -3.753347
+    ]
+   },
+   "properties": {
+    "id": "P101",
+    "penduduk": "423",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.003,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.253843,
+     -3.776982
+    ]
+   },
+   "properties": {
+    "id": "P102",
+    "penduduk": "109",
+    "faskes_terdekat": "F08",
+    "jarak_km": 1.481,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.207006,
+     -3.842581
+    ]
+   },
+   "properties": {
+    "id": "P103",
+    "penduduk": "72",
+    "faskes_terdekat": "F07",
+    "jarak_km": 2.593,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.293253,
+     -3.776524
+    ]
+   },
+   "properties": {
+    "id": "P104",
+    "penduduk": "462",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.729,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.246173,
+     -3.769309
+    ]
+   },
+   "properties": {
+    "id": "P105",
+    "penduduk": "427",
+    "faskes_terdekat": "F08",
+    "jarak_km": 2.68,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.299618,
+     -3.75898
+    ]
+   },
+   "properties": {
+    "id": "P106",
+    "penduduk": "390",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.108,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.228016,
+     -3.7578
+    ]
+   },
+   "properties": {
+    "id": "P107",
+    "penduduk": "113",
+    "faskes_terdekat": "F04",
+    "jarak_km": 1.086,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.279181,
+     -3.751594
+    ]
+   },
+   "properties": {
+    "id": "P108",
+    "penduduk": "391",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.758,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.22807,
+     -3.857414
+    ]
+   },
+   "properties": {
+    "id": "P109",
+    "penduduk": "333",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.137,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.235231,
+     -3.812829
+    ]
+   },
+   "properties": {
+    "id": "P110",
+    "penduduk": "244",
+    "faskes_terdekat": "F02",
+    "jarak_km": 1.122,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.280148,
+     -3.763232
+    ]
+   },
+   "properties": {
+    "id": "P111",
+    "penduduk": "341",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.485,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.253041,
+     -3.764021
+    ]
+   },
+   "properties": {
+    "id": "P112",
+    "penduduk": "205",
+    "faskes_terdekat": "F08",
+    "jarak_km": 2.658,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.2608,
+     -3.739919
+    ]
+   },
+   "properties": {
+    "id": "P113",
+    "penduduk": "360",
+    "faskes_terdekat": "F03",
+    "jarak_km": 4.463,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.299213,
+     -3.768827
+    ]
+   },
+   "properties": {
+    "id": "P114",
+    "penduduk": "395",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.533,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.217162,
+     -3.84044
+    ]
+   },
+   "properties": {
+    "id": "P115",
+    "penduduk": "457",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.607,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.29199,
+     -3.760702
+    ]
+   },
+   "properties": {
+    "id": "P116",
+    "penduduk": "313",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.357,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.279528,
+     -3.77042
+    ]
+   },
+   "properties": {
+    "id": "P117",
+    "penduduk": "469",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.691,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.211085,
+     -3.823161
+    ]
+   },
+   "properties": {
+    "id": "P118",
+    "penduduk": "151",
+    "faskes_terdekat": "F05",
+    "jarak_km": 1.72,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.220032,
+     -3.810282
+    ]
+   },
+   "properties": {
+    "id": "P119",
+    "penduduk": "293",
+    "faskes_terdekat": "F05",
+    "jarak_km": 0.829,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.268667,
+     -3.755564
+    ]
+   },
+   "properties": {
+    "id": "P120",
+    "penduduk": "262",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.518,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.278824,
+     -3.780129
+    ]
+   },
+   "properties": {
+    "id": "P121",
+    "penduduk": "246",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.439,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.215604,
+     -3.854348
+    ]
+   },
+   "properties": {
+    "id": "P122",
+    "penduduk": "402",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.765,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.268905,
+     -3.744701
+    ]
+   },
+   "properties": {
+    "id": "P123",
+    "penduduk": "104",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.651,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.23286,
+     -3.844655
+    ]
+   },
+   "properties": {
+    "id": "P124",
+    "penduduk": "406",
+    "faskes_terdekat": "F07",
+    "jarak_km": 0.446,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.275832,
+     -3.773244
+    ]
+   },
+   "properties": {
+    "id": "P125",
+    "penduduk": "484",
+    "faskes_terdekat": "F03",
+    "jarak_km": 0.401,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.289606,
+     -3.784076
+    ]
+   },
+   "properties": {
+    "id": "P126",
+    "penduduk": "391",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.578,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.27122,
+     -3.742203
+    ]
+   },
+   "properties": {
+    "id": "P127",
+    "penduduk": "436",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.864,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.19917,
+     -3.863403
+    ]
+   },
+   "properties": {
+    "id": "P128",
+    "penduduk": "308",
+    "faskes_terdekat": "F07",
+    "jarak_km": 3.847,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.198382,
+     -3.841539
+    ]
+   },
+   "properties": {
+    "id": "P129",
+    "penduduk": "131",
+    "faskes_terdekat": "F07",
+    "jarak_km": 3.554,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.277535,
+     -3.754685
+    ]
+   },
+   "properties": {
+    "id": "P130",
+    "penduduk": "434",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.409,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.210487,
+     -3.813995
+    ]
+   },
+   "properties": {
+    "id": "P131",
+    "penduduk": "448",
+    "faskes_terdekat": "F05",
+    "jarak_km": 0.741,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.273305,
+     -3.767133
+    ]
+   },
+   "properties": {
+    "id": "P132",
+    "penduduk": "275",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.134,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.275233,
+     -3.765294
+    ]
+   },
+   "properties": {
+    "id": "P133",
+    "penduduk": "221",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.259,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.237329,
+     -3.741285
+    ]
+   },
+   "properties": {
+    "id": "P134",
+    "penduduk": "127",
+    "faskes_terdekat": "F04",
+    "jarak_km": 2.996,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.223291,
+     -3.824297
+    ]
+   },
+   "properties": {
+    "id": "P135",
+    "penduduk": "159",
+    "faskes_terdekat": "F02",
+    "jarak_km": 1.022,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.28926,
+     -3.772556
+    ]
+   },
+   "properties": {
+    "id": "P136",
+    "penduduk": "288",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.353,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.220262,
+     -3.827886
+    ]
+   },
+   "properties": {
+    "id": "P137",
+    "penduduk": "249",
+    "faskes_terdekat": "F02",
+    "jarak_km": 1.466,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.271655,
+     -3.756053
+    ]
+   },
+   "properties": {
+    "id": "P138",
+    "penduduk": "500",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.354,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.273338,
+     -3.759254
+    ]
+   },
+   "properties": {
+    "id": "P139",
+    "penduduk": "230",
+    "faskes_terdekat": "F03",
+    "jarak_km": 1.961,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.21688,
+     -3.744621
+    ]
+   },
+   "properties": {
+    "id": "P140",
+    "penduduk": "477",
+    "faskes_terdekat": "F04",
+    "jarak_km": 1.808,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.206957,
+     -3.867856
+    ]
+   },
+   "properties": {
+    "id": "P141",
+    "penduduk": "459",
+    "faskes_terdekat": "F07",
+    "jarak_km": 3.416,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.264129,
+     -3.747177
+    ]
+   },
+   "properties": {
+    "id": "P142",
+    "penduduk": "189",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.575,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.212679,
+     -3.860731
+    ]
+   },
+   "properties": {
+    "id": "P143",
+    "penduduk": "392",
+    "faskes_terdekat": "F07",
+    "jarak_km": 2.42,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.269182,
+     -3.757407
+    ]
+   },
+   "properties": {
+    "id": "P144",
+    "penduduk": "480",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.308,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.195275,
+     -3.819366
+    ]
+   },
+   "properties": {
+    "id": "P145",
+    "penduduk": "323",
+    "faskes_terdekat": "F05",
+    "jarak_km": 2.347,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.274908,
+     -3.749905
+    ]
+   },
+   "properties": {
+    "id": "P146",
+    "penduduk": "389",
+    "faskes_terdekat": "F03",
+    "jarak_km": 2.957,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.290167,
+     -3.752331
+    ]
+   },
+   "properties": {
+    "id": "P147",
+    "penduduk": "493",
+    "faskes_terdekat": "F03",
+    "jarak_km": 3.01,
+    "terlayani": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.220078,
+     -3.844996
+    ]
+   },
+   "properties": {
+    "id": "P148",
+    "penduduk": "217",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.119,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.221715,
+     -3.829621
+    ]
+   },
+   "properties": {
+    "id": "P149",
+    "penduduk": "500",
+    "faskes_terdekat": "F02",
+    "jarak_km": 1.419,
+    "terlayani": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.240635,
+     -3.854079
+    ]
+   },
+   "properties": {
+    "id": "P150",
+    "penduduk": "265",
+    "faskes_terdekat": "F07",
+    "jarak_km": 1.408,
+    "terlayani": true
+   }
+  }
+ ]
+}
