@@ -5,7 +5,7 @@ Studi kasus **CRISP-DM** berdasarkan kuliah praktisi *Career and Competition in 
 Program Studi Informatika Universitas Bengkulu). Proyek ini menunjukkan bagaimana latar belakang IT
 (pemrograman, otomasi, dan integrasi data) dapat dipakai untuk menjawab masalah perencanaan pembangunan di Kota Bengkulu.
 
-🔗 Laporan HTML (live, setelah GitHub Pages aktif):
+🔗 Laporan HTML:
 `https://USERNAME.github.io/studi-kasus-gis-faskes-bengkulu/`
 
 ## Kerangka CRISP-DM
