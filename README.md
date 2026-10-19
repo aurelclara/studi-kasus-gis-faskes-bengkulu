@@ -6,7 +6,7 @@ Program Studi Informatika Universitas Bengkulu). Proyek ini menunjukkan bagaiman
 (pemrograman, otomasi, dan integrasi data) dapat dipakai untuk menjawab masalah perencanaan pembangunan di Kota Bengkulu.
 
 🔗 Laporan HTML:
-`https://USERNAME.github.io/studi-kasus-gis-faskes-bengkulu/`
+`[https://USERNAME.github.io/studi-kasus-gis-faskes-bengkulu](https://aurelclara.github.io/studi-kasus-gis-faskes-bengkulu/)`
 
 ## Kerangka CRISP-DM
 
